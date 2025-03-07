@@ -120,6 +120,9 @@ opacitySlider.value = maxOpacity;
 controls.appendChild(document.createTextNode("Max Arc Opacity: "));
 controls.appendChild(opacitySlider);
 
+[]
+
+
 class HalfArc {
     constructor() {
         this.x = Math.random() * canvas.width;
